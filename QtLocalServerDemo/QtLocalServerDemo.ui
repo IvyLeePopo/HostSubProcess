@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QtLocalServerDemoClass</class>
+ <widget class="QWidget" name="QtLocalServerDemoClass" >
+  <property name="objectName" >
+   <string notr="true">QtLocalServerDemoClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QtLocalServerDemo</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QtLocalServerDemo.qrc"/>
+ </resources>
+ <connections/>
+</UI>

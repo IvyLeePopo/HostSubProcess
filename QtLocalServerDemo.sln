@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtLocalServerDemo", "QtLocalServerDemo\QtLocalServerDemo.vcxproj", "{C0AEB6F4-0253-42FF-84F4-14F2CE2C6945}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtSubProcess", "QtSubProcess\QtSubProcess.vcxproj", "{348549E1-082F-45D8-866E-7C7946E8FC46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AEB6F4-0253-42FF-84F4-14F2CE2C6945}.Debug|x64.ActiveCfg = Debug|x64
+		{C0AEB6F4-0253-42FF-84F4-14F2CE2C6945}.Debug|x64.Build.0 = Debug|x64
+		{C0AEB6F4-0253-42FF-84F4-14F2CE2C6945}.Release|x64.ActiveCfg = Release|x64
+		{C0AEB6F4-0253-42FF-84F4-14F2CE2C6945}.Release|x64.Build.0 = Release|x64
+		{348549E1-082F-45D8-866E-7C7946E8FC46}.Debug|x64.ActiveCfg = Debug|x64
+		{348549E1-082F-45D8-866E-7C7946E8FC46}.Debug|x64.Build.0 = Debug|x64
+		{348549E1-082F-45D8-866E-7C7946E8FC46}.Release|x64.ActiveCfg = Release|x64
+		{348549E1-082F-45D8-866E-7C7946E8FC46}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A927BDC-2FB8-4976-8EC8-EF5BF2F34F25}
+	EndGlobalSection
+EndGlobal
